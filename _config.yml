@@ -104,7 +104,7 @@ author:
       url: "mailto:cafeqed@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://www.cafeqed.com"
+      # url: "https://www.cafeqed.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
@@ -129,7 +129,7 @@ footer:
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:
+      url: "https://github.com/cafeqed"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:

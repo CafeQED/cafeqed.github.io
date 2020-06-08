@@ -95,7 +95,7 @@ analytics:
 author:
   name             : "Peter Cheng"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Software engineer, mathematician, teacher, barista."
+  bio              : "Programmer, mathematician, teacher, barista."
   location         : "Los Angeles, CA"
   email            :
   links:
